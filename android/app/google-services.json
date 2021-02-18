@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "250017446292",
+    "project_id": "bahamafood-81e80",
+    "storage_bucket": "bahamafood-81e80.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250017446292:android:813bc461df2d80ac90b781",
+        "android_client_info": {
+          "package_name": "com.example.randomfood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "250017446292-tu5pi51n5dlmojrsmdj3vkcc6qdjh97p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJzvPDnyth4DVogK5wdg_f2JoqFwCbOiE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "250017446292-tu5pi51n5dlmojrsmdj3vkcc6qdjh97p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
